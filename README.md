@@ -1,6 +1,7 @@
 # discord_bot
 
 參考文獻&學習來源
+
 Code a discord bot 架構主要來自於這裡
 https://www.youtube.com/playlist?list=PLSCgthA1Anif1w6mKM3O6xlBGGypXtrtN
 
@@ -22,7 +23,7 @@ https://github.com/ytdl-org/youtube-dl#options
  youtube_dl支援的網站
 https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md
 
-ffmpeg放入自建的虛擬環境，將ffmpeg/bin下的三個檔案放入Scripts中即可
+ffmpeg可以放入自建的虛擬環境，將ffmpeg/bin下的三個檔案放入Scripts中即可
 https://stackoom.com/question/256ip/%E6%89%BE%E4%B8%8D%E5%88%B0ffprobe%E6%88%96avprobe-%E8%AF%B7%E5%AE%89%E8%A3%85%E4%B8%80%E4%B8%AA
 
 ffmpeg下載
